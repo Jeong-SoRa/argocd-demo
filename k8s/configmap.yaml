@@ -11,5 +11,6 @@ data:
       <body style="font-family: sans-serif; text-align:center; padding-top:40px">
         <h1>🎉 Hello from Argo CD on Rancher Desktop!</h1>
         <p>Commit을 바꾸면 여기 내용이 자동 반영됩니다.</p>
+        <p>25.10.24 yaml 변경함</p>
       </body>
     </html>
